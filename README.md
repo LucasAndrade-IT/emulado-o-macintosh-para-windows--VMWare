@@ -2,12 +2,14 @@
 
 ## Recentemente precisei utilizar o sistema Macibtosh para conhecer melhor sobre seu Software, então  vi varios videos no Youtube para fazer a emulação utilizando a VMware Workstation Pro no Windows, mas nenhum deu certo em meu notebook, então fui em busca de como aprimorar estes recursos para que eu pudesse fazer esta instalação. 
 
+
 1° Voce precisa fazer a instação da VMware, utilizei a VMware Workstation Pro, mas voce pode utilizar a vmware workstation player.
 Link : https://www.vmware.com/br/products/workstation-pro/workstation-pro-evaluation.html
 
 2° Faça o download do arquivo unlocker, que irei deixar nos arquivos.
 
 3° Faça o dowload do arquivo que estará ISO do Big Sur.
+https://drive.google.com/file/d/1RmnDA6HpTlPyKD9cy8k2VYGII583BQVL/view
 
 ## Atenção não esqueça de verificar se seu notebook está habilitado a virtualização e se também está habilitado em sua BIOS.
 
