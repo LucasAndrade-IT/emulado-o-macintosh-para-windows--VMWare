@@ -1,0 +1,1 @@
+# emulado-o-macintosh-para-windows--VMWare
